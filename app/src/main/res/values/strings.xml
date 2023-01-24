@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Buttons</string>
+    <string name="btn">Mostrar</string>}
+    <string name="tv">Escribe tu fase IEST</string>
+    <string name="frase">Ingresa una frase</string>
+    <string name="etHint">Aquí escribes tu frase</string>
+
+</resources>
+
