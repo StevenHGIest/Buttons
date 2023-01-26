@@ -27,3 +27,29 @@ Para cambiar le color der la letra: color
 Pra cambia rle color de la background backgroundTinty
 
 Para hacer lo de todo mayusculas: textAllCaps
+
+ ---
+ Creas otra activity con ir a la java > new android > empty activity
+
+
+Si tines un color en hexadesimal puede sgreagarlol a los recursos en res/values/colors.xml.
+Tambien puedes hacerlo 
+
+Target size too small, significa que hay que agregar un minimo de altura ya que nom puede ser visible en varios dispositivos
+
+
+Si los colore hacenb contraste te hace un warning para que lo ajustes
+
+
+
+en el manifests te da las visdtas
+```
+<intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+ </intent-filter>
+```
+la vita que la tenga sera la que se vera al inicio
+
+si tiene el exported = "false" te maracara un error, eets debe estar en true
