@@ -23,7 +23,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.008" />
+        />
 
     <Button
         android:id="@+id/btnMostrar"
@@ -32,12 +32,10 @@
         android:layout_marginBottom="100dp"
         android:backgroundTint="#EAAEA9"
         android:text="@string/btn"
-        app:layout_codnstraintVertical_bias="0.132"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/edtvFrase"
-        app:layout_constraintVertical_bias="0.132" />
+        app:layout_constraintTop_toBottomOf="@+id/edtvFrase" />
 
     <EditText
         android:id="@+id/edtvFrase"

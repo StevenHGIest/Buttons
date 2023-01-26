@@ -4,6 +4,8 @@
     <string name="tv">Escribe tu fase IEST</string>
     <string name="frase">Ingresa una frase</string>
     <string name="etHint">Aquí escribes tu frase</string>
+    <string name="click_right">Click right</string>
+    <string name="click_left">Click_left</string>
 
 </resources>
 
