@@ -53,3 +53,10 @@ en el manifests te da las visdtas
 la vita que la tenga sera la que se vera al inicio
 
 si tiene el exported = "false" te maracara un error, eets debe estar en true
+
+---
+finish() -> cierra la actividad que estas realizando
+
+IR AL logcat y poner package:mine DATOS
+
+CADA VES QUE SE HACE UN INTENT SE PNE ENCIMA LA VISTA SILE PONES UN FINISH CERRA LA VISTA DE ENCIMA NO LA APLICACION
