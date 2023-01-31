@@ -60,3 +60,13 @@ finish() -> cierra la actividad que estas realizando
 IR AL logcat y poner package:mine DATOS
 
 CADA VES QUE SE HACE UN INTENT SE PNE ENCIMA LA VISTA SILE PONES UN FINISH CERRA LA VISTA DE ENCIMA NO LA APLICACION
+---
+
+si esta en exported puede ser accedida por erl sistema o otra sistam externo, por lo regular se pone a la pantalla que no va a ser principal edpoorted = false
+
+Para cambiar el background color del boton backgrounTint
+
+Agregamos las imagenes en res/drawable (Para que este en todos los dispositivos, no  popner en el drawable-v24)
+
+
+los nombres de las imagenes e poene en minuscula y sin guines bajos
